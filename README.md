@@ -1,7 +1,9 @@
 # EnscapeAssetTransfer
 
 This tool moves Enscape Assets from Rhino to Revit
+
 Authors: Jonah Hawk and Andrew Schiffer, ZGF Architects
+
 Plugins Required: RhinoInsideRevit, Human, Elefront.
 
 Follow these steps :)
